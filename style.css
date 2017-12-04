@@ -1,0 +1,200 @@
+header{
+    background: url("img/header.png") no-repeat;
+    height: 750px;
+    background-size: cover;
+ }
+header div nav div:nth-child(2){
+    background: url("img/Tech.png");
+    width: 90px;
+    height: 470px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-size: cover;
+}
+header div nav div:nth-child(3){
+    background: url("img/header box.png");
+    width: 90px;
+    height: 470px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-size: cover;
+}
+header div nav div:nth-child(4){
+    background: url("img/Tech.png");
+    width: 90px;
+    height: 470px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-size: cover;
+}
+header div nav div:nth-child(5){
+    background: url("img/header box2.png");
+    width: 90px;
+    height: 470px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-size: cover;
+}
+header div nav div{
+    position: relative;
+    top: 450px;
+}
+
+header{
+    color: white;
+}
+
+.dnoteksta h2{
+    position: relative;
+    top: 240px;
+    color: white;
+}
+.dnoteksta h2 a{
+    color: white;
+}
+.dnoteksta p{
+    position: relative;
+    top: 240px;
+    color: white;
+}
+
+
+
+#third-section{
+    margin-top: 55px;
+}
+#third-section div div{
+    height: 330px;
+}
+.slikica h4{
+    text-transform: uppercase;
+    text-align: center;
+}
+.slikica p{
+    text-align: center;
+}
+.slikica img{
+    background-size: cover;
+    width: 120%;
+    align-items: center;
+}
+.slikica{
+    margin: 10px;
+}
+.slikica a{
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+
+#second-section{
+    margin-top: 50px;
+}
+#second-section div{
+    margin-top: 50px;
+}
+#second-section div div{
+    margin: 0 auto;
+    width: 1100px;
+}
+#second-section div div img{
+    background-size: cover;
+    width: 500px;
+    height: 100%;
+    margin: auto -10px auto -10px;
+}
+#second-section div div {
+}
+
+.skupa{
+    margin-top: 30px;
+}
+.skupa div a{
+    position: absolute;
+    right: 10px;
+    bottom: -10px;
+}
+#second-section div div div{
+    margin-top: 30px;
+}
+
+#second-section div div img{
+    margin-top: 30px;
+}
+.centrirano{
+    margin-top: 50px;
+}
+
+/* Popular Tags */
+.first-row{
+    text-align: center;
+}
+.first-row span{
+    border: solid 1px black;
+    margin: 2px;
+    padding: 1px 15px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+/* Last One */
+
+#last-one{
+    background: url("img/lay.png");
+    background-size: cover;
+}
+
+#last-one h1{
+    margin-top: 55px;
+        padding-top: 30px;
+    color: white;
+    margin-bottom: 55px;
+    text-align: center;
+}
+
+#last-one-s{
+
+}
+
+#last-one-s div{
+    background: rgba(255,255,255,0.75);
+    width: 90px;
+    margin: 0 auto 50px auto;
+    box-shadow: 2px 2px 2px 5px rgba(255,255,255,0.75);
+    padding: ;
+}
+input[name=mail], input[name=yoru-mail], textarea[name=message]{
+    width: 100%;
+    background-color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#social div{
+    display: inline-block;
+    margin: 30px auto auto auto;
+}
+
+
+
+
+
+/* Footer */
+
+
+footer{
+    background: #333333;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
