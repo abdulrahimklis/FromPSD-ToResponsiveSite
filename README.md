@@ -1,6 +1,9 @@
 # FromPSD-ToResponsiveSite
 
-Designed by Ajdin Turkovic for Sweden company
+Designed by Ajdin Turkovic:
+https://dribbble.com/ajdinn
+
+for Sweden company.
 
 Coded by me, mrabdulrrahimklis
 
